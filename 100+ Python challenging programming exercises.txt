@@ -723,6 +723,7 @@ print "%s name is %s" % (Person.name, nico.name)
 #----------------------------------------#
 
 #----------------------------------------#
+Question 26
 Question:
 Define a function which can compute the sum of two numbers.
 
@@ -736,6 +737,7 @@ def SumFunction(number1, number2):
 print SumFunction(1,2)
 
 #----------------------------------------#
+Question 27
 Question:
 Define a function that can convert a integer into a string and print it in console.
 
@@ -751,6 +753,7 @@ printValue(3)
 	
 
 #----------------------------------------#
+Question 28
 Question:
 Define a function that can convert a integer into a string and print it in console.
 
@@ -766,7 +769,7 @@ printValue(3)
 
 #----------------------------------------#
 2.10
-
+Question 29
 Question:
 Define a function that can receive two integral numbers in string form and compute their sum and then print it in console.
 
@@ -801,7 +804,7 @@ printValue("3","4") #34
 #----------------------------------------#
 2.10
 
-
+Question 30
 Question:
 Define a function that can accept two strings as input and print the string with maximum length in console. If two strings have the same length, then the function should print al l strings line by line.
 
@@ -828,7 +831,7 @@ printValue("one","three")
 
 #----------------------------------------#
 2.10
-
+Question 31
 Question:
 Define a function that can accept an integer number as input and print the "It is an even number" if the number is even, otherwise print "It is an odd number".
 
@@ -849,7 +852,7 @@ checkValue(7)
 
 #----------------------------------------#
 2.10
-
+Question 32
 Question:
 Define a function which can print a dictionary where the keys are numbers between 1 and 3 (both included) and the values are square of keys.
 
